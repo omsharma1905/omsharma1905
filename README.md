@@ -1,55 +1,76 @@
-<h1 align="center">Hi 👋, I'm Om Sharma</h1>
-<h3 align="center">A passionate full stack web developer from India</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Om%20Sharma&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=FullStack%20Developer%20%E2%80%A2%20Mathura,%20India&descSize=16&descAlignY=55" width="100%"/>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omsharma1905&label=Profile%20views&color=0e75b6&style=flat" alt="omsharma1905" /> </p>
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" width="180"/>
+  
+  **Building responsive web experiences with React.js, Next.js, TypeScript, Express.js, Node.js, and MongoDB**
+</div>
 
-- 🔭 I’m currently working on **AI-Trip-Planner**
+## 🛠️ Tech Stack
 
-- 🌱 I’m currently learning **Web development, Java, DevOps**
-
-- 📫 How to reach me **oms177794@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/om-sharma-033617294" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="om-sharma-033617294" height="30" width="40" /></a>
-<a href="https://instagram.com/oscarsierra_1910" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omsharma_1905" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/omsharma1905" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="omsharma1905" height="30" width="40" /></a>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,nodejs,expressjs,mongodb,python,tailwind,html,css,git" alt="skills" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a> 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a> 
-</p>
+**Frontend:** React.js • Next.js • TypeScript • HTML5 • CSS3 • Tailwind CSS  
+**State Management:** Redux • Zustand • TanStack Query  
+**Backend:** Node.js • Express.js • EJS • MongoDB • API Integration • Authentication (Clerk/OTP)  
+**Tools:** Git • GitHub • Performance Optimization • SEO
 
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖🗺️✈️ AI Trip Planner
+**AI Trip Planner**  
+Built with React.js, Tailwind CSS, & AI integration.
+- [🌐 Live Demo](https://ai-trip-planner-murex.vercel.app/)
+- [📝 Code](https://github.com/omsharma1905/AI_Trip_Planner)
+
+</td>
+<td width="50%">
+
+### 🎉✨ Eventora 
+**AI Event Creator App**  
+Next.js, Convex, Clerk authentication & API
+- [🌐 Live Demo](/)
+- [📝 Code](/)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🤖 AI eBook Creator
+**AI eBook Creator**  
+Gemini API integration with Custom SignIn/SignUp Authentication
+- [🌐 Live Demo](/)
+- [📝 Code](/)
+
+</td>
+<td width="50%">
+</table>
+
+## 💼 What I Deliver
+
+🎯 **Performance-focused development** - Accessibility enhancement, SEO improvement, and mobile performance gains  
+🔧 **End-to-end feature delivery** - From prototyping to production deployment  
+♿ **Accessibility-first approach** - Building inclusive web experiences  
+🧩 **Component-driven architecture** - Reusable, well-typed, maintainable code
+
+## 📫 Let's Connect
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/om-sharma1905/)
+[![X/Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oms177794@gmail.com)
+
+**Open to:** Frontend/Full-stack roles • Freelance projects • Open-source contributions
+
+<div align="center">
+    <em>🎓 B.tech Computer Science Engineering | VIT Bhopal</em>
+</div>
