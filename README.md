@@ -15,8 +15,8 @@
 </p>
 
 **Frontend:** React.js • Next.js • TypeScript • HTML5 • CSS3 • Tailwind CSS  
-**State Management:** Redux • Zustand • TanStack Query  
-**Backend:** Node.js • Express.js • EJS • MongoDB • API Integration • Authentication (Clerk/OTP)  
+**Backend:** Node.js • Express.js • EJS • MongoDB • SQL • API Integration • Authentication (Clerk/OTP)  
+**Languages:** Java • Python
 **Tools:** Git • GitHub • Performance Optimization • SEO
 
 ## 🚀 Featured Projects
