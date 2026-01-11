@@ -25,31 +25,31 @@
 <tr>
 <td width="50%">
 
-### 🤖🗺️✈️ AI Trip Planner
+### 🤖🗺️✈️ SafariX (AI Trip Planner)
 **AI Trip Planner**  
 Built with React.js, Tailwind CSS, & AI integration.
-- [🌐 Live Demo](https://ai-trip-planner-murex.vercel.app/)
-- [📝 Code](https://github.com/omsharma1905/AI_Trip_Planner)
+- [🌐 Live Demo](https://safarix19.vercel.app/)
+- [📝 Code](https://github.com/omsharma1905/SafariX)
 
 </td>
 <td width="50%">
 
-### 🎉✨ Eventora 
+### 🎉✨ Eventora (AI Events Organiser)
 **AI Event Creator App**  
 Next.js, Convex, Clerk authentication & API
-- [🌐 Live Demo](/)
-- [📝 Code](/)
+- [🌐 Live Demo](https://github.com/omsharma1905/Eventora)
+- [📝 Code](https://eventora19.vercel.app/)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🤖 AI eBook Creator
+### 🤖📖 Booknify AI (AI eBook Creator) 
 **AI eBook Creator**  
 Gemini API integration with Custom SignIn/SignUp Authentication
-- [🌐 Live Demo](/)
-- [📝 Code](/)
+- [🌐 Live Demo](https://github.com/omsharma1905/booknify-ai)
+- [📝 Code](https://booknify-ai.vercel.app/)
 
 </td>
 <td width="50%">
@@ -66,7 +66,7 @@ Gemini API integration with Custom SignIn/SignUp Authentication
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/om-sharma1905/)
-[![X/Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](/)
+[![X/Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/bugdev19)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omsharma1905)
 
 **Open to:** Frontend/Full-stack roles • Freelance projects • Open-source contributions
