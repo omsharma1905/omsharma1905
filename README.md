@@ -37,8 +37,10 @@ Built with React.js, Tailwind CSS, & AI integration.
 ### 🎉✨ Eventora (AI Events Organiser)
 **AI Event Creator App**  
 Next.js, Convex, Clerk authentication & API
+<!--
 - [🌐 Live Demo](https://eventora19.vercel.app/)
 - [📝 Code](https://github.com/omsharma1905/Eventora)
+-->
 
 </td>
 </tr>
@@ -48,8 +50,10 @@ Next.js, Convex, Clerk authentication & API
 ### 🤖📖 Booknify AI (AI eBook Creator) 
 **AI eBook Creator**  
 Gemini API integration with Custom SignIn/SignUp Authentication
+<!--
 - [🌐 Live Demo](https://github.com/omsharma1905/booknify-ai)
 - [📝 Code](https://booknify-ai.vercel.app/)
+-->
 
 </td>
 <td width="50%">
