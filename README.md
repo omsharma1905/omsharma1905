@@ -37,10 +37,8 @@ Built with React.js, Tailwind CSS, & AI integration.
 ### 🎉✨ Eventora (AI Events Organiser)
 **AI Event Creator App**  
 Next.js, Convex, Clerk authentication & API
-<!--
 - [🌐 Live Demo](https://eventora19.vercel.app/)
 - [📝 Code](https://github.com/omsharma1905/Eventora)
--->
 
 </td>
 </tr>
