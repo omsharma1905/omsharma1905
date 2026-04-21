@@ -48,10 +48,8 @@ Next.js, Convex, Clerk authentication & API
 ### 🤖📖 Booknify AI (AI eBook Creator) 
 **AI eBook Creator**  
 Gemini API integration with Custom SignIn/SignUp Authentication
-<!--
 - [🌐 Live Demo](https://github.com/omsharma1905/booknify-ai)
 - [📝 Code](https://booknify-ai.vercel.app/)
--->
 
 </td>
 <td width="50%">
