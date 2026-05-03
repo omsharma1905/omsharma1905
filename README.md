@@ -14,7 +14,7 @@
   <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,nodejs,expressjs,mongodb,python,tailwind,html,css,git" alt="skills" />
 </p>
 
-**Frontend:** React.js • Next.js • TypeScript • HTML5 • CSS3 • Tailwind CSS • JavaScript
+**Frontend:** React.js • Next.js • TypeScript • HTML5 • CSS3 • Tailwind CSS • JavaScript  
 **Backend:** Node.js • Express.js • EJS • MongoDB • SQL • API Integration • Authentication (Clerk/OTP) • Neon SupaBase • Firebase Studio  
 **Languages:** Java • Python  
 **Tools:** Git • GitHub • Performance Optimization • SEO • VibeCoding (AI)  
