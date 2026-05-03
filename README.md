@@ -25,34 +25,43 @@
 <tr>
 <td width="50%">
 
-### 🤖🗺️✈️ SafariX (AI Trip Planner)
-**AI Trip Planner**  
-Built with React.js, Tailwind CSS, & AI integration.
-- [🌐 Live Demo](https://safarix19.vercel.app/)
-- [📝 Code](https://github.com/omsharma1905/SafariX)
+### 🌐💼 Personal Portfolio  
+My personal portfolio website showcasing my projects, skills, certifications, and experience.  
+Built with React.js, Tailwind CSS, & Framer Motion.  
+- 🌐 <a href="https://www.omsharma.in/">Live</a>
 
 </td>
 <td width="50%">
 
-### 🎉✨ Eventora (AI Events Organiser)
-**AI Event Creator App**  
-Next.js, Convex, Clerk authentication & API
-- [🌐 Live Demo](https://eventora19.vercel.app/)
-- [📝 Code](https://github.com/omsharma1905/Eventora)
+### 🤖🗺️✈️ SafariX (AI Trip Planner)  
+AI-powered trip planning application.  
+Built with React.js, Tailwind CSS, & AI integration.  
+- 🌐 <a href="https://safarix19.vercel.app/">Live Demo</a>  
+- 📝 <a href="https://github.com/omsharma1905/SafariX">Code</a>
 
 </td>
 </tr>
+
 <tr>
 <td width="50%">
 
-### 🤖📖 Booknify AI (AI eBook Creator) 
-**AI eBook Creator**  
-Gemini API integration with Custom SignIn/SignUp Authentication
-- [🌐 Live Demo](https://github.com/omsharma1905/booknify-ai)
-- [📝 Code](https://booknify-ai.vercel.app/)
+### 🎉✨ Eventora (AI Events Organiser)  
+AI event creation platform.  
+Built with Next.js, Convex, Clerk Authentication & APIs.  
+- 🌐 <a href="https://eventora19.vercel.app/">Live Demo</a>  
+- 📝 <a href="https://github.com/omsharma1905/Eventora">Code</a>
 
 </td>
 <td width="50%">
+
+### 🤖📖 Booknify AI (AI eBook Creator)  
+AI-powered eBook generation platform.  
+Built with Gemini API & custom authentication system.  
+- 🌐 <a href="https://booknify-ai.vercel.app/">Live Demo</a>  
+- 📝 <a href="https://github.com/omsharma1905/booknify-ai">Code</a>
+
+</td>
+</tr>
 </table>
 
 ## 💼 What I Deliver
