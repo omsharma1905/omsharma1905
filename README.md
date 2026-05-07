@@ -81,5 +81,5 @@ Built with Gemini API & custom authentication system.
 **Open to:** Frontend/Full-stack roles • Freelance projects • Open-source contributions
 
 <div align="center">
-    <em>🎓 B.tech Computer Science Engineering | VIT Bhopal</em>
+    <em>🎓 B.tech (Computer Science Engineering) | VIT Bhopal</em>
 </div>
